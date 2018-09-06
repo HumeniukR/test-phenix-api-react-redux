@@ -1,0 +1,13 @@
+.btn-add--center {
+	display: block;
+	margin: 0 auto;
+}
+
+.channel-container {
+	width: 100%;
+}
+
+.channel-container--center {
+	display: inline-block;
+	text-align: center;
+}
